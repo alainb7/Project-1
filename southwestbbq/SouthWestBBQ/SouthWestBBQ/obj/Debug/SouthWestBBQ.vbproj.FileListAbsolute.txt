@@ -1,0 +1,13 @@
+C:\Users\alain\OneDrive\Documents\GitHub\southwestbbq\SouthWestBBQ\SouthWestBBQ\bin\Debug\SouthWestBBQ.exe.config
+C:\Users\alain\OneDrive\Documents\GitHub\southwestbbq\SouthWestBBQ\SouthWestBBQ\bin\Debug\SouthWestBBQ.exe
+C:\Users\alain\OneDrive\Documents\GitHub\southwestbbq\SouthWestBBQ\SouthWestBBQ\bin\Debug\SouthWestBBQ.pdb
+C:\Users\alain\OneDrive\Documents\GitHub\southwestbbq\SouthWestBBQ\SouthWestBBQ\bin\Debug\SouthWestBBQ.xml
+C:\Users\alain\OneDrive\Documents\GitHub\southwestbbq\SouthWestBBQ\SouthWestBBQ\obj\Debug\SouthWestBBQ.vbprojAssemblyReference.cache
+C:\Users\alain\OneDrive\Documents\GitHub\southwestbbq\SouthWestBBQ\SouthWestBBQ\obj\Debug\SouthWestBBQ.frmOrder.resources
+C:\Users\alain\OneDrive\Documents\GitHub\southwestbbq\SouthWestBBQ\SouthWestBBQ\obj\Debug\SouthWestBBQ.Resources.resources
+C:\Users\alain\OneDrive\Documents\GitHub\southwestbbq\SouthWestBBQ\SouthWestBBQ\obj\Debug\SouthWestBBQ.vbproj.GenerateResource.cache
+C:\Users\alain\OneDrive\Documents\GitHub\southwestbbq\SouthWestBBQ\SouthWestBBQ\obj\Debug\SouthWestBBQ.vbproj.CoreCompileInputs.cache
+C:\Users\alain\OneDrive\Documents\GitHub\southwestbbq\SouthWestBBQ\SouthWestBBQ\obj\Debug\SouthWestBBQ.exe
+C:\Users\alain\OneDrive\Documents\GitHub\southwestbbq\SouthWestBBQ\SouthWestBBQ\obj\Debug\SouthWestBBQ.xml
+C:\Users\alain\OneDrive\Documents\GitHub\southwestbbq\SouthWestBBQ\SouthWestBBQ\obj\Debug\SouthWestBBQ.pdb
+C:\Users\alain\OneDrive\Documents\GitHub\southwestbbq\SouthWestBBQ\SouthWestBBQ\obj\Debug\SouthWestBBQ.frmSummary.resources
